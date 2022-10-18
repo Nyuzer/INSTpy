@@ -20,6 +20,6 @@ After everything is installed, you just need to run the program:
 ```
 python main.py
 ```
-> For convenience, a file 'file_nik.txt' was created in the 'base' directory, you have to fill this file with the nicknames of the people you want to subscribe to. Services for generating such txt files can help you with this.
+> For convenience, a file 'file_nik.txt' was created in the 'base' directory, you have to fill this file with the nicknames of the people you want to subscribe to. Services for generating such txt files can help you with this. Google Chrome Browser is also required for the program to work.
 
 >> P.S. Soon I'll write a program to generate txt files with nicknames:)# INSTpy
